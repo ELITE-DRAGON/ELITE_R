@@ -1,0 +1,9 @@
+pip 
+colorama
+_thread
+time
+os
+requests
+webbrowser
+socket
+sys
